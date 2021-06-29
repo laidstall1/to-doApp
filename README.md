@@ -6,4 +6,4 @@ An app where users can create a new to-do, modify, and delete to-do.
 - realm
 
 ## How to run:
-- do a "pod install" to run project.
+- do a "pod install" in terminal to run project.
